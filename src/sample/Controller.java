@@ -9,7 +9,7 @@ public class Controller {
     public Button BUTTON;
 
     public void handleCLick(ActionEvent actionEvent) {
-        TEKST.setText("Kliknięto w przycisk.");
+        TEKST.setText("Kliknięto w przycisk");
 
 
     }
